@@ -1,3 +1,5 @@
 # ntm_bronchiectasis_microbiome
 
-Code will be available upon manuscript publication
+This is code written for R
+
+A Biom File, Mapping File and a Annotated Tree File are required
